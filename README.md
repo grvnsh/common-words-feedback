@@ -9,5 +9,6 @@ This Rust program analyzes critical notes and identifies the five most common wo
 - Outputs the five most common words along with their counts.
 
 ## Requirements
+
 - Rust (version 1.50 or later)
 - Cargo (included in Rust installation)
