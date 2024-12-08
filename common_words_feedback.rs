@@ -6,6 +6,7 @@ fn main() {
     // Open the file
     let file = File::open("ielts_feedback.txt").expect("Failed to open file");
     let reader = BufReader::new(file);
+    
     // Create a HashMap to store word counts
     let mut word_counts = HashMap::new();
 
