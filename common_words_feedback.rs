@@ -8,7 +8,6 @@ fn main() {
     let reader = BufReader::new(file);
     
     
-    
     // Create a HashMap to store word counts
     let mut word_counts = HashMap::new();
 
