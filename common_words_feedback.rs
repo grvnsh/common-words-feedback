@@ -9,7 +9,6 @@ fn main() {
     
     
     
-    
     // Create a HashMap to store word counts
     let mut word_counts = HashMap::new();
 
